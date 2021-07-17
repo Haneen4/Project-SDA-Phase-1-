@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjectPhase(1)SDA/1.0.0": {
+        "runtime": {
+          "ProjectPhase(1)SDA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectPhase(1)SDA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

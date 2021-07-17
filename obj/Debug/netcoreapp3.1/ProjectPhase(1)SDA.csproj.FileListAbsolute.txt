@@ -1,0 +1,13 @@
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\obj\Debug\netcoreapp3.1\ProjectPhase(1)SDA.csproj.AssemblyReference.cache
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\obj\Debug\netcoreapp3.1\ProjectPhase(1)SDA.AssemblyInfoInputs.cache
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\obj\Debug\netcoreapp3.1\ProjectPhase(1)SDA.AssemblyInfo.cs
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\obj\Debug\netcoreapp3.1\ProjectPhase(1)SDA.csproj.CoreCompileInputs.cache
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\bin\Debug\netcoreapp3.1\ProjectPhase(1)SDA.exe
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\bin\Debug\netcoreapp3.1\ProjectPhase(1)SDA.deps.json
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\bin\Debug\netcoreapp3.1\ProjectPhase(1)SDA.runtimeconfig.json
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\bin\Debug\netcoreapp3.1\ProjectPhase(1)SDA.runtimeconfig.dev.json
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\bin\Debug\netcoreapp3.1\ProjectPhase(1)SDA.dll
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\bin\Debug\netcoreapp3.1\ProjectPhase(1)SDA.pdb
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\obj\Debug\netcoreapp3.1\ProjectPhase(1)SDA.dll
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\obj\Debug\netcoreapp3.1\ProjectPhase(1)SDA.pdb
+C:\Users\Haneen\source\repos\ProjectPhase(1)SDA\obj\Debug\netcoreapp3.1\ProjectPhase(1)SDA.genruntimeconfig.cache
